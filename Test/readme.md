@@ -1,1 +1,3 @@
 # Testdoc
+
+[class notes] (./notes)
