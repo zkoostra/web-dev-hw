@@ -1,0 +1,7 @@
+One way that information is sent over the internet is a something you need to send is broken up into tiny pieces of information called packets and sent through various channels to their destination. This is efficient because the packets can all take the same path or they can take a bunch of different ones -- it just needs to be fast. Each packet contains a small piece of information and a few key things like where the information is coming from, where it's headed and certain rules about data transfer on the internet.
+
+An IP address is the exact address of every computer device connected to the internet. DNS is the domain name system, which translates and associates IP addresses, which are just a bunch of numbers and dots, into something associated the name of a website, which makes that site easier to find or remember.
+
+A cookie is a small file stored on your computer that can give information to a website when you go to it. This can include information that might help the site tailor itself to give you a specific experience or just show you a bunch of targeted ads.
+
+The basic parts of a URL are protocol, domain name and path.
