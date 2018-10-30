@@ -1,0 +1,10 @@
+## Zoie Koostra Read Me for 10.29
+
+1. Divs are basically "divisions" it's a way to break up the flow of your work into managable pieces based on what goes together. They can help a reader stay organized as well as a developer by creating sections of content that can be grouped together with classes or styles. A class is a specific kind of div as defined by some style parameters. You can create a class using certain styles and then easily replicate that class in any div. Styles are part of the visual elements that make up a page like colors, borders and fonts. These are defined in a CSS style sheet or at the beginning of the page in the head. An id is a specific, unique name for your div element that defines and organizes what is contained in that section. A span is another type of building block but unlike divs, spans can be placed side-by-side with one another.
+
+2. My mom is visually impaired and I used to work in the UM Online studio helping with accessibility to moodle courses, so the alt text tag is really important to me. Alt text allows a person using a screen reader to be able to understand an image through it's decription even if they can't see it. It can also come in handy if a link is broken or an image won't load.
+
+3. Honestly this class is a breeze after doing coding in the computer science department. I'm really enjoying learning more in-depth stuff about styles and organization for design purposes because my beginner coding class from the CS dept. definitely did not cover that aspect at all. Overrall, I'm finding this easy to follow along with and really enjoyable, so thank you! The song I chose was ...Baby One More Time because it's the song's 20th anniversary this week haha. I used the Spotify player but it only plays 30 seconds of the song so I hope that's okay. I couldn't find another player that was just audio that I could link to easily, but I did feel proud that I knew to google "spotify, web dev embed" which took me right to the iframe link maker!
+
+![web-dev-progress](../images/web-dev-progress.jpg)
+Sorry I always forget to take a screenshot until I'm done or almost done.
