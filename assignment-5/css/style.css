@@ -7,7 +7,7 @@ body{
 
    /*Setting up the stripes which will all be the same height and size but will have different positions and colors.*/
 
-   .stripe-1+.stripe-2+.stripe-3 {
+   stripe-1+stripe-2+stripe-3 {
      id: number-1
      width: 1000px;
      height: 100px;
@@ -16,11 +16,11 @@ body{
      background-color: rgb(249, 181, 255);
    }
 
-   .stripe-2{
+   stripe-2{
      background-color: rgb(94, 6, 232);
    }
 
-   .stripe-3{
+   stripe-3{
      background-color: rgb(93, 222, 232);
    }
 
