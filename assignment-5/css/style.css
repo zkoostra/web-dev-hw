@@ -1,5 +1,13 @@
 /*Setting up the background "canvas area" which will be lime at 50% opacity*/
 
+h1{
+  font-family: Arial;
+  font-weight: black;
+  font-size: 80px;
+  color: rgb(94, 6, 232);
+  text-align: center;
+}
+
 body{
    background-color: rgba(18, 255, 120, 0.5)
 }
@@ -25,10 +33,3 @@ body{
    }
 
 }
-   h1{
-     font-family: Arial;
-     font-weight: black;
-     font-size: 80px;
-     color: rgb(94, 6, 232);
-     text-align: center;
-   }
