@@ -8,10 +8,6 @@ h1{
   text-align: center;
 }
 
-body{
-   background-color: rgba(18, 255, 120, 0.5)
-}
-
 
    /*Setting up the stripes which will all be the same height and size but will have different positions and colors.*/
 
@@ -31,5 +27,11 @@ body{
    stripe-3{
      background-color: rgb(93, 222, 232);
    }
+
+body{
+   background-color: rgba(18, 255, 120, 0.5)
+}
+
+
 
 }
