@@ -1,6 +1,10 @@
 /*Setting up the background "canvas area" which will be lime at 50% opacity*/
+body {
+  background-color: rgba(18, 255, 120, 0.5)
+}
 
-h1{
+
+h1 {
   font-family: Arial;
   font-weight: black;
   font-size: 80px;
@@ -8,30 +12,34 @@ h1{
   text-align: center;
 }
 
+/*Centering my photo image*/
+.center {
+  display: block;
+  margin-left: 500;
+  margin-right: auto;
+  bottom:500
+}
 
-   /*Setting up the stripes which will all be the same height and size but will have different positions and colors.*/
+/*Setting up the stripes which will all be the same height and size but will have different positions and colors.*/
 
-   stripe-1+stripe-2+stripe-3 {
-     id: number-1
-     width: 1000px;
-     height: 100px;
-     position:absolute;
-     padding: 20px
-     background-color: rgb(249, 181, 255);
-   }
+.stripe {
+  width: 1200;
+  height: 100;
+  padding: 50
+}
 
-   stripe-2{
-     background-color: rgb(94, 6, 232);
-   }
-
-   stripe-3{
-     background-color: rgb(93, 222, 232);
-   }
-
-body{
-   background-color: rgba(18, 255, 120, 0.5)
+#bar-1 {
+  background-color: rgb(249, 181, 255);
+  bottom:500
 }
 
 
+#bar-2 {
+  background-color: rgb(94, 6, 232);
+  bottom:300
+}
 
+#bar-3 {
+color: rgb(93, 222, 232);
+bottom:900
 }
