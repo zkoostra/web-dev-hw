@@ -1,0 +1,104 @@
+/*Basic elements*/
+<link href="https://fonts.googleapis.com/css?family=Schoolbell|Thasadith:400,700" rel="stylesheet">
+<link rel="fonts" type="text/css" href="/css/fonts.css"/>
+* {
+  line-height: normal;
+}
+
+body{
+  background-color: rgb(237,223,137)
+}
+
+p {
+  margin-bottom: 2em;
+  text-decoration: none;
+  color: inherit;
+}
+
+/*Creating seperate boxes for structure*/
+
+.text-box {
+       width: Auto;
+       margin: 5em;
+       padding: 4em;
+       border: 1px solid rgb(11, 44, 126);
+       border-radius: 6px;
+     }
+
+     /* Body copy elements */
+     .body {
+       font-family: Thasadith, sans-serif;
+       font-size: 1.25em;
+       text-indent: 1.5em;
+       line-height: 1.45em;
+       font-weight: 400;
+     }
+     .body p:first-child {
+       text-indent: 0;
+     }
+     .body p:first-of-type:first-letter {
+       font-family: 'Schoolbell, cursive;'
+       font-size: 20pt;
+       font-weight: 400;
+       color: rgb(11, 44, 126);
+     }
+     /* "Read More!" Button */
+     #button-container {
+       width: 10em;
+       height: 3em;
+       margin: auto;
+     }
+     .button p {
+       font-family: Thasadith, sans-serif;
+       font-size: 1em;
+       text-align: center;
+       color: rgb(253, 255, 235);
+     }
+     .button p:active {
+       color: rgb(237,223,137);
+     }
+     .button {
+       height: 100%;
+       background-color: rgb(11, 44, 126);
+       border-color: rgb(253, 255, 235);
+       border-width: 6px 10px 10px 6px;
+       border-style: solid;
+     }
+     .button:hover {
+       background-color:rgb(11, 44, 190) ;
+       background-size: 40px 40px;
+       background-repeat: no-repeat;
+     }
+     .button:active {
+       background-color: rgb(6,26,75);
+       border-color: #rgb(237,223,137);
+       border-width: 6px;
+     }
+
+
+/*fonts*/
+
+.title {
+  font-family: 'Schoolbell',cursive;
+  font-size: 30pt;
+  float: center;
+  color:rgb(255, 80, 79)
+}
+
+
+.chapter {
+  font-family: 'Schoolbell', cursive;
+  font-size: 2;
+  color: rgb(11, 44, 126)
+  float: center;
+  text-align: center;
+}
+
+
+.p{
+  font-family: 'Thasadith', sans-serif;
+  font-size: 1;
+  text-indent: 1;
+  line-height: 1;
+  font-weight: 400;
+}
